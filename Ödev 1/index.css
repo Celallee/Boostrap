@@ -1,0 +1,28 @@
+body{
+    background-color: #E9ECEF  ;
+}
+.linkler{
+    padding: 15px;
+    font-size: large;
+}
+a {
+    color: white;
+}
+.başlık{
+    font-size: 100px; 
+    color: #a03932;
+    margin: auto 700px;
+}
+.bs2{
+    font-size: 100px;
+}
+.f-size{
+    font-size: 20px;
+}
+b {
+        background-color: rgb(129, 124, 124);
+        font-size: small;
+}
+.flex{
+    display: flex;
+}
